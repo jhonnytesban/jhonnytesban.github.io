@@ -255,7 +255,7 @@
 }
 @media only screen and (max-width: 850px) {
   .section__img {
-    object-position: 0 -80px;
+    object-position: 0 -60px;
   }
 }
 @media only screen and (max-width: 600px) {
@@ -291,6 +291,11 @@
 @media only screen and (max-width: 1200px) {
   .container-img {
     height: 100px;
+  }
+}
+@media only screen and (max-width: 850px) {
+  .container-img {
+    height: 150px;
   }
 }
 @media only screen and (max-width: 600px) {
